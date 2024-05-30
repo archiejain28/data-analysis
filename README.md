@@ -13,6 +13,6 @@ In this task some analytics is done over the Indian Agriculture dataset which ha
 ![alt text](image.png)
 
 **Instructions to install and run the project.**
-1) To install dependencies, use yarn 
-2) To run in the localhost, use yarn start
-3) To create a build production, use yarn build
+1) To install dependencies, use **yarn**
+2) To run in the localhost, use **yarn start**
+3) To create a build production, use **yarn build**
