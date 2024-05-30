@@ -4,9 +4,10 @@ In this task some analytics is done over the Indian Agriculture dataset which ha
 
 1) Minimum and Maximum Crop Production has been calculated per year between 1950 to 2020, as shown in table below
 ![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+
 
 2) Average yeild of Crop and average cultivation area required for crop is calculated for each crop between 1950 to 2020, as shown below in table
 
